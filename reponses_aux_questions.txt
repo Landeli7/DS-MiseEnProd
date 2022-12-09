@@ -1,0 +1,26 @@
+16) Qu'est-ce que Docker ? A quoi cela sert-il ?
+
+Docker permet de créer des "Machines virtuelles" qu'on appelle containers, basés sur des
+images qu'on peut modifier facilement grâce à des scripts nommés Dockerfile.
+L'avantage de ces containers, c'est qu'ils sont légers et demandent moins de mémoire
+et de ressources qu'une VM. Ils peuvent également fonctionner sur plusieurs environnements
+et peuvent être partagés au sein d'une équipe de dev par exemple. De plus, ces containers
+peuvent fonctionner ensemble, et ainsi on peut avoir tout un projet fullstack avec d'un côté
+la BDD, le back et de l'autre le front.
+
+
+17) Qu'est-ce que la CI et la CD ? Pourquoi est-ce utile ?
+
+CI/CD signifie "Continuous Integration / Continuous Deploiement". Le principe est d'intégrer
+des tests unitaires et d'intégration dans un projet, et de les faire tourner lorsqu'un push
+à été réalisé sur un repo. Cela permet de vérifier que le projet se comporte bien comme prévu, 
+et qu'il sera prêt pour la production. 
+
+18) Qu'avez-vous pensé du cours ?
+En alternance j'utilise un peu Docker mais je n'ai jamais eu
+l'occasion de vraiment comprendre ce qu'il y avait derrière les scripts Dockerfile et docker-compose.yml.
+Donc ça va vraiment m'être utile, d'autant plus que c'était très intéressant. Et puis la façon dont sont organisés
+les TPs est vraiment pas mal pour apprendre.
+
+19) Surprenez-moi
+Certaines tortues peuvent respirer par leur derrière.
